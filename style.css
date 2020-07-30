@@ -9,10 +9,3 @@ body {
 	min-height: 100vh;
 	padding: 50px;
 }
-
-.quiz {
-	border: 1px solid #000;
-	width: 600px;
-	min-height: 100px;
-	margin: 0 auto;
-}
